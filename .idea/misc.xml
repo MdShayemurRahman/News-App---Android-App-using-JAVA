@@ -4,7 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/jahed/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/jahed/AndroidStudioProjects/MyApplication/app/src/main/res/layout/entertainment_layout.xml" value="0.17889492753623187" />
         <entry key="..\:/Users/jahed/AndroidStudioProjects/MyApplication/app/src/main/res/layout/headline_list_items.xml" value="0.132" />
+        <entry key="..\:/Users/jahed/AndroidStudioProjects/MyApplication/app/src/main/res/layout/health_layout.xml" value="0.17889492753623187" />
+        <entry key="..\:/Users/jahed/AndroidStudioProjects/MyApplication/app/src/main/res/layout/home_layout.xml" value="0.17889492753623187" />
+        <entry key="..\:/Users/jahed/AndroidStudioProjects/MyApplication/app/src/main/res/layout/science_layout.xml" value="0.17889492753623187" />
+        <entry key="..\:/Users/jahed/AndroidStudioProjects/MyApplication/app/src/main/res/layout/sports_layout.xml" value="0.17889492753623187" />
+        <entry key="..\:/Users/jahed/AndroidStudioProjects/MyApplication/app/src/main/res/layout/technology_layout.xml" value="0.17889492753623187" />
       </map>
     </option>
   </component>
